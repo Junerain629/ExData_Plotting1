@@ -29,7 +29,7 @@ data$Time <- hms(data$Time)
 data$DateTime <- data$Date + data$Time
 
 # plot
-with(data, plot(DateTime, Sub_metering_1, xlab="", ylab="Global Active Power (kilowatts)", type="l"))
+with(data, plot(DateTime, Sub_metering_1, xlab="", ylab="Energy sub metering", type="l"))
 with(data, lines(DateTime, Sub_metering_2, col="red"))
 with(data, lines(DateTime, Sub_metering_3, col="blue"))
 
