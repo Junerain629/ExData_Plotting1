@@ -3,8 +3,7 @@ I have uploaded four R scripts and four png files as instructed. Respectively, t
 * plot1.R ~ plot1.png
 * plot2.R ~ plot2.png
 * plot3.R ~ plot3.png
-* plot4.R ~ plot4.png
-* 
+* plot4.R ~ plot4.png* 
 
 
 ## The following is the original README from Fork
